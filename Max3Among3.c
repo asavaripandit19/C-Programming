@@ -9,6 +9,7 @@ int main()
     b=(a>b)?a:b;
     b=(c>b)?c:b;
 
+    
     printf("Max is %d",b);
 
     
